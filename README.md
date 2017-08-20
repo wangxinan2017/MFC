@@ -1,4 +1,4 @@
-# MFC
+# E-ruler
 It is made by MFC, VS2015. So it could only be used in Windows.
 It could be used conviently in some pictures or pdf files.
 
